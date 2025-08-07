@@ -1,4 +1,4 @@
-## Usage<img width="400" height="400" alt="SQL_Dump_Image_Resized" src="https://github.com/user-attachments/assets/2b66f1ce-bfdd-41a3-adb3-081bb24848c8" />
+<img width="400" height="400" alt="SQL_Dump_Image_Resized" src="https://github.com/user-attachments/assets/2b66f1ce-bfdd-41a3-adb3-081bb24848c8" />
 
 
 # SQL-Prac
